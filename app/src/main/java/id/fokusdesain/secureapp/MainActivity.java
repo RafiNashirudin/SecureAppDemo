@@ -8,6 +8,7 @@ import android.graphics.Typeface;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.*;
+import android.app.AlertDialog;
 
 public class MainActivity extends Activity {
     // Kredensial sengaja dibuat sederhana untuk praktikum reverse engineering.
